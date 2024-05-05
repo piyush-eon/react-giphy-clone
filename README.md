@@ -1,8 +1,4 @@
-# React + Vite
+# Build a GIPHY Clone with React JS and Tailwind CSS
+## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=wtC1_Ea9_wk)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![giphy clone](https://github.com/piyush-eon/react-giphy-clone/assets/51760520/7905c0bf-9a7a-4768-b166-b6b783760437)
